@@ -2,7 +2,7 @@
   padding: 152.5px 100px 152.5px 75px;
 }
 .row1 {
-  
+
 }
 .doorpic{
   padding: 100px 200px 75px 75px;
@@ -31,7 +31,11 @@
   padding: 1.25rem 2.5rem;
 
 }
-#green{
+#signUp{
   background-color: #007c89;
   color: #fff;
+  margin-left: 20px;
+}
+#logIn {
+  margin-left: 500px;
 }
