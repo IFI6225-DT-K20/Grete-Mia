@@ -1,12 +1,13 @@
 .col {
-  padding: 152.5px 100px 152.5px 75px;
+  padding: 100px 0px 100px 0px;
 }
-.row1 {
+#col1{
+  padding-left: 185px;
+}
+#col2{
+  padding-right: 185px;
+}
 
-}
-.doorpic{
-  padding: 100px 200px 75px 75px;
-}
 #bodytext{
    font-size: 1.5rem;
    font-family: Graphik Web,Helvetica Neue,Helvetica,Arial,Verdana,sans-serif;
@@ -23,13 +24,15 @@
 .btn-outline-dark{
   min-width: 7.5rem;
   padding: .8125rem;
-
 }
 .btn.btn-info{
   background-color: #007c89;
   color: #fff;
   padding: 1.25rem 2.5rem;
-
+}
+.btn-outline-info{
+  color: #007c89;
+  padding: 1.25rem 2.5rem;
 }
 #signUp{
   background-color: #007c89;
