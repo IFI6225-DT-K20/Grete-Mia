@@ -1,8 +1,17 @@
 #loginform {
   width: 500px;
 }
-#signUp{
+#logIn{
   background-color: #007c89;
   color: #fff;
   margin-left: 20px;
+  padding-left: 190px;
+  padding-right: 190px;
+   text-align: center;
+}
+#logo {
+  padding-left: 200px;
+}
+#heading {
+padding-left: 220px;
 }
