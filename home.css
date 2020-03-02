@@ -1,12 +1,19 @@
 .col {
   padding: 100px 0px 100px 0px;
 }
+.navbar-main{
+  padding-top: 20px;
+  padding-left: 20px;
+}
 .navbar-main :hover {
   background-color: #FFFFFF;
   transition: all 1s;
+  padding-top: 20px;
+  padding-left: 20px;
 }
 #col1{
   padding-left: 185px;
+  height: 600px;
 }
 #col2{
   padding-right: 185px;
@@ -18,8 +25,7 @@
    font-weight: 300;
    line-height: 1.4;
 }
-.btn
-{
+.btn{
   border-radius: 0px;
   font-family: Graphik Web,Helvetica Neue,Helvetica,Arial,Verdana,sans-serif;
   font-size: .9375rem;
