@@ -1,6 +1,10 @@
 .col {
   padding: 100px 0px 100px 0px;
 }
+.navbar-main :hover {
+  background-color: #FFFFFF;
+  transition: all 1s;
+}
 #col1{
   padding-left: 185px;
 }
