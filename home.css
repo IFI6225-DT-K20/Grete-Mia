@@ -8,8 +8,6 @@
 .navbar-main :hover {
   background-color: #FFFFFF;
   transition: all 1s;
-  padding-top: 20px;
-  padding-left: 20px;
 }
 #col1{
   padding-left: 185px;
