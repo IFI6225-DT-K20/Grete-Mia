@@ -59,8 +59,8 @@
   color: #fff;
   margin-left: 20px;
 }
-#logIn {
-  margin-left: 400px;
+.login-menu {
+  margin-left: auto;
 }
 #learnmorebtn {
   color: #007c89;
