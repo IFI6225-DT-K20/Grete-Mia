@@ -10,15 +10,12 @@
 .navbar-main :hover {
   background-color: #FFFFFF;
   transition: all 1s;
-<<<<<<< HEAD
-=======
 }
 .navbar-nav{
   padding-left: 80px;
 }
 #monkeylogo {
   padding-left: 80px;
->>>>>>> c65c02b5859cccce9f25aa9a375da9f6658c3d5a
 }
 #col1{
   padding-left: 260px;
