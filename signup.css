@@ -1,7 +1,7 @@
 #form {
   padding-left: 700px;
   margin-top: -340px;
-  padding-right: 450px;
+  padding-right: 400px;
 }
 #logo {
   padding-left: 400px;
@@ -49,7 +49,6 @@ ul {
 li::before {
   content: "• ";
   color: #007c89;
-  line-height: 1.5625;
 }
 #logIn {
   margin-top: 30px;
