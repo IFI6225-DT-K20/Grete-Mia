@@ -1,21 +1,29 @@
-Name
+Name:
 Grete's and Mia's mailchimp.com site copy.
 
-Description
+Description:
 This website is done as our coursework in subject called "User Interface Design and Development". For studying purpose we have made a copy of https://mailchimp.com/ website. We used Bootstrap, css and html.
 
-Installation
+Installation:
+This project is a web site so it requires a web browser to be used. We highly recommend to use Google Chrome latest version.
+
+All the necessery HTML, CSS and JavaScript code is in our repository called Grete-Mia, which you can find from here: https://github.com/IFI6225-DT-K20/Grete-Mia
+
+First you need to download a GitHub Desktop to your computer. The installation instructions for that can be found here: https://help.github.com/en/desktop/getting-started-with-github-desktop/installing-github-desktop
+Secondly, as we used Bootstrap frameworks for building this website, you need to install Bootstrap to your computer. The installation instructions can be found from here: https://getbootstrap.com/docs/4.4/getting-started/download/
+
+In order to get all the necessery code for the website to your computer, you need to either clone or download our repository (marked above).
 
 
-Usage
+Usage:
 The page is only illustrating the real website and is not meant for actual use.
 
-Support
+Support:
 In any case of problems, feel free to contact us.
 grete.ounapuu@gmail.com
 mia.eisler@gmail.com
 
-License
+License:
 The MIT License (MIT)
 Copyright © 2020 <Grete Õunapuu, Mia Eisler>
 
@@ -24,6 +32,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
