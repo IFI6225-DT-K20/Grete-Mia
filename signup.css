@@ -10,6 +10,7 @@
 #heading {
   font-size: 50px;
   font-family: Georgia, serif;
+  margin-top: 100px;
 }
 #bodytext{
    font-size: 10;
@@ -52,4 +53,14 @@ li::before {
 }
 #logIn {
   margin-top: 30px;
+}
+
+
+.signup-img-container {
+  position: relative;
+}
+
+.signup-img {
+  position: absolute;
+  right: 0px;
 }

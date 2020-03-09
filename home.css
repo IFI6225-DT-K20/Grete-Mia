@@ -1,21 +1,41 @@
 .col {
   padding: 100px 0px 100px 0px;
 }
-.navbar-main{
+/*.navbar-main{
   padding-top: 20px;
   padding-left: 20px;
   background: #ffe01b;
-
 }
+*/
+
+/*
 .navbar-main :hover {
   background-color: #FFFFFF;
   transition: all 1s;
 }
+
+*/
+
 .navbar-nav{
   padding-left: 80px;
 }
+
+.navbar {
+  padding-top: 20px;
+  padding-left: 20px;
+  padding: 30px 50px;
+  width: 100%;
+}
+
+.nav-wrapper {
+  background-color: #ffe01b;
+}
+
+.nav-wrapper :hover{
+  background-color: #FFFFFF;
+}
 #monkeylogo {
-  padding-left: 80px;
+  /* padding-left: 80px; */
 }
 #col1{
   padding-left: 260px;
