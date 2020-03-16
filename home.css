@@ -1,3 +1,7 @@
+@font-face {
+font-family: "Cooper";
+src: url("CooperBlack-Std.woff") format("woff");
+}
 .col {
   padding: 100px 0px 100px 0px;
 }
@@ -80,8 +84,18 @@
   color: #007c89;
 }
 #heading1 {
-  font-size: 50px;
-  font-family: Georgia, serif;
+  font-family: "Cooper", serif, Times, Georgia;
+  font-size: 3.375rem;
+  letter-spacing: -.03125rem;
+  font-weight: 200;
+  line-height: 1;
+}
+h2 {
+  font-family: "Cooper", serif, Times, Georgia;
+  font-size: 3.375rem;
+  letter-spacing: -.03125rem;
+  font-weight: 200;
+  line-height: 1;
 }
 #navbarDropdownMenuLink {
   color: black;
@@ -90,11 +104,14 @@
   color: black;
 }
 #heading3 {
-  font-family: Georgia, serif;
+  font-family: Georgia,Times,Times,serif;
 }
 #heading2 {
-  font-family: Georgia, serif;
-  font-size: 45px;
+  font-family: Georgia,Times,Times,serif;
+  font-size: 3rem;
+  letter-spacing: -.03125rem;
+  font-weight: 300;
+  line-height: 1;
   padding-left: 480px;
   padding-right: 480px;
   padding-top: 100px;
@@ -102,7 +119,7 @@
 }
 #heading4 {
   font-size: 40px;
-  font-family: Georgia, serif;
+  font-family: Georgia,Times,Times,serif;
 }
 #col1{
   padding-left: 260px;
