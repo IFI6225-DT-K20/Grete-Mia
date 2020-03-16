@@ -34,16 +34,10 @@
 .nav-wrapper :hover{
   background-color: #FFFFFF;
 }
-#monkeylogo {
-  /* padding-left: 80px; */
-}
-#col1{
-  padding-left: 260px;
-  padding-top: 190px;
-  height: 640px;
-}
-#col2{
-  padding-right: 185px;
+.container-logo {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
 }
 #doorpic {
   padding-left: 100px;
@@ -106,6 +100,18 @@
   padding-top: 100px;
   text-align: center;
 }
+#heading4 {
+  font-size: 40px;
+  font-family: Georgia, serif;
+}
+#col1{
+  padding-left: 260px;
+  padding-top: 190px;
+  height: 640px;
+}
+#col2{
+  padding-right: 185px;
+}
 #col4 {
   padding-top: 180px;
   padding-right: 180px;
@@ -144,4 +150,16 @@
     padding-left: 0px;
     padding-top: 190px;
     height: 640px;
+}
+#col11 {
+  padding-left: 260px;
+}
+#col13 {
+  padding-left: 260px;
+}
+#col14 {
+  padding-left: 50px;
+}
+ul {
+  list-style-image: url
 }
