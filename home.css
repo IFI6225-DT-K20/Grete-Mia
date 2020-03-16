@@ -1,6 +1,6 @@
 @font-face {
 font-family: "Cooper";
-src: url("CooperBlack-Std.woff") format("woff");
+src: url("Cooper.ttf") format("ttf");
 }
 .col {
   padding: 100px 0px 100px 0px;
@@ -84,7 +84,7 @@ src: url("CooperBlack-Std.woff") format("woff");
   color: #007c89;
 }
 #heading1 {
-  font-family: "Cooper", serif, Times, Georgia;
+  font-family: "Cooper";
   font-size: 3.375rem;
   letter-spacing: -.03125rem;
   font-weight: 200;
