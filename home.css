@@ -180,3 +180,31 @@ h2 {
 ul {
   list-style-image: url
 }
+#heading4 {
+    color: #241c15;
+    font-family: Cooper,Georgia,Times,Times New Roman,serif;
+    font-size: 1.75rem;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: 1.1;
+    margin-left: 25%;
+}
+.text-center {
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+.h5{
+  margin-top:5%;
+  color: #007c89;
+  font-size: 1.5rem;
+  letter-spacing: 0;
+  font-family: Cooper,Georgia,Times,Times New Roman,serif;
+}
+.copy{
+    color: #403b3b;
+    font-family: Graphik Web,Helvetica Neue,Helvetica,Arial,Verdana,sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 1.5;
+}
