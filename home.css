@@ -5,21 +5,6 @@ src: url("Cooper.ttf") format("ttf");
 .col {
   padding: 100px 0px 100px 0px;
 }
-/*.navbar-main{
-  padding-top: 20px;
-  padding-left: 20px;
-  background: #ffe01b;
-}
-*/
-
-/*
-.navbar-main :hover {
-  background-color: #FFFFFF;
-  transition: all 1s;
-}
-
-*/
-
 .navbar-nav{
   padding-left: 80px;
 }
@@ -47,7 +32,7 @@ src: url("Cooper.ttf") format("ttf");
   padding-left: 100px;
   padding-top: 20px;
 }
-#bodytext{
+#bodytext1, #bodytext2, #bodytext3, #bodytext4{
    font-size: 1.5rem;
    font-family: Graphik Web,Helvetica Neue,Helvetica,Arial,Verdana,sans-serif;
    font-weight: 300;
@@ -83,13 +68,6 @@ src: url("Cooper.ttf") format("ttf");
 #learnmorebtn {
   color: #007c89;
 }
-#heading1 {
-  font-family: "Cooper";
-  font-size: 3.375rem;
-  letter-spacing: -.03125rem;
-  font-weight: 200;
-  line-height: 1;
-}
 h2 {
   font-family: "Cooper", serif, Times, Georgia;
   font-size: 3.375rem;
@@ -97,16 +75,20 @@ h2 {
   font-weight: 200;
   line-height: 1;
 }
-#navbarDropdownMenuLink {
+#navbarDropdownMenuLink1, #navbarDropdownMenuLink2 {
   color: black;
 }
-#navlink {
+#navlink1, #navlink2 {
   color: black;
 }
-#heading3 {
-  font-family: Georgia,Times,Times,serif;
+#heading1, #heading5, #heading6, #heading7, #heading8 {
+  font-family: "Cooper";
+  font-size: 3.375rem;
+  letter-spacing: -.03125rem;
+  font-weight: 200;
+  line-height: 1;
 }
-#heading2 {
+#heading2, #heading9 {
   font-family: Georgia,Times,Times,serif;
   font-size: 3rem;
   letter-spacing: -.03125rem;
@@ -117,9 +99,21 @@ h2 {
   padding-top: 100px;
   text-align: center;
 }
+#heading3 {
+  font-family: Georgia,Times,Times,serif;
+}
 #heading4 {
   font-size: 40px;
   font-family: Georgia,Times,Times,serif;
+}
+#heading41, #heading42, #heading43 {
+    color: #241c15;
+    font-family: Cooper,Georgia,Times,Times New Roman,serif;
+    font-size: 1.75rem;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: 1.1;
+    margin-left: 25%;
 }
 #col1{
   padding-left: 260px;
@@ -176,18 +170,6 @@ h2 {
 }
 #col14 {
   padding-left: 50px;
-}
-ul {
-  list-style-image: url
-}
-#heading4 {
-    color: #241c15;
-    font-family: Cooper,Georgia,Times,Times New Roman,serif;
-    font-size: 1.75rem;
-    font-weight: 300;
-    letter-spacing: 0;
-    line-height: 1.1;
-    margin-left: 25%;
 }
 .text-center {
     margin-bottom: 60px;
