@@ -94,8 +94,18 @@ h2 {
   letter-spacing: -.03125rem;
   font-weight: 300;
   line-height: 1;
-  padding-left: 480px;
-  padding-right: 480px;
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 100px;
+  text-align: center;
+}
+#heading10 {
+  font-family: Georgia,Times,Times,serif;
+  font-size: 3rem;
+  letter-spacing: -.03125rem;
+  font-weight: 300;
+  line-height: 1;
+  padding-left: 300px;
   padding-top: 100px;
   text-align: center;
 }
