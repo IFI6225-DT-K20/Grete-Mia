@@ -2,7 +2,7 @@ Name:
 Grete's and Mia's mailchimp.com site copy.
 
 Description:
-This website is done as our coursework in subject called "User Interface Design and Development". For studying purpose we have made a copy of https://mailchimp.com/ website. We used Bootstrap, css and html.
+This website is done as our coursework in subject called "User Interface Design and Development". For studying purpose we have made a copy of https://mailchimp.com/ website. We used Bootstrap (version 4.4.1), css and html. You should use pre-compiled version of Bootstrap.
 
 Installation:
 This project is a web site so it requires a web browser to be used. We highly recommend to use Google Chrome latest version.
