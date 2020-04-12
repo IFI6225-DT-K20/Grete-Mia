@@ -14,7 +14,7 @@
 }
 #bodytext{
    font-size: 15px;
-   font-family: Graphik Web,Helvetica Neue,Helvetica,Arial,Verdana,sans-serif;
+   font-family: Helvetica,Helvetica,Arial,Verdana,sans-serif;
    font-weight: 300;
 }
 #loginbtn {
@@ -25,21 +25,21 @@
 }
 #bodytext2{
    font-size: 15px;
-   font-family: Graphik Web,Helvetica Neue,Helvetica,Arial,Verdana,sans-serif;
+   font-family: Helvetica,Helvetica,Arial,Verdana,sans-serif;
    font-weight: 300;
    padding-left: 140px;
    margin-top: -30px;
 }
 #column1 {
   font-size: 15px;
-  font-family: Graphik Web,Helvetica Neue,Helvetica,Arial,Verdana,sans-serif;
+  font-family: Helvetica,Helvetica,Arial,Verdana,sans-serif;
   padding-top: 10px;
   margin-left: -30px;
 
 }
 #column2 {
   font-size: 15px;
-  font-family: Graphik Web,Helvetica Neue,Helvetica,Arial,Verdana,sans-serif;
+  font-family: Helvetica,Helvetica,Arial,Verdana,sans-serif;
   padding-left: 220px;
   margin-top: -85px;
 }
